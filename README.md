@@ -8,6 +8,7 @@ This is the classic marketing bank dataset uploaded originally in the UCI Machin
 Kaggle URL to Download Dataset: https://www.kaggle.com/janiobachmann/bank-marketing-dataset
 
 Feature
+
 1.age | int64 | age in years
 2.job | object | type of job (categorical: ['admin.' 'technician' 'services' 'management' 'retired' 'blue-collar' 'unemployed' 'entrepreneur' 'housemaid' 'unknown' 'self-employed' 'student']) 
 3. marital | object | marital status (categorical: ['married' 'single' 'divorced']) 
