@@ -3,9 +3,13 @@
 Exploratory Data Analysis and Model Building - Bank Marketing Campaign
 Data Description
 
-This is the classic marketing bank dataset uploaded originally in the UCI Machine Learning Repository. The dataset gives you information about a marketing campaign of a financial institution in which you will have to analyze in order to find ways to look for future strategies in order to improve future marketing campaigns for the bank.
+Overview
+
+Welcome to my data analysis project! In this project, I performed comprehensive data cleaning, analysis using SQL, and created insightful visualizations with Power BI. This is the classic marketing bank dataset uploaded originally in the UCI Machine Learning Repository. The dataset gives you information about a marketing campaign of a financial institution in which you will have to analyze in order to find ways to look for future strategies in order to improve future marketing campaigns for the bank.
 
 Kaggle URL to Download Dataset: https://www.kaggle.com/janiobachmann/bank-marketing-dataset
+
+
 
 Feature
 
