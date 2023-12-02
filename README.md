@@ -11,7 +11,7 @@ Kaggle URL to Download Dataset: https://www.kaggle.com/janiobachmann/bank-market
 
 
 
-Feature
+Features
 
 1.age | int64 | age in years
 2.job | object | type of job (categorical: ['admin.' 'technician' 'services' 'management' 'retired' 'blue-collar' 'unemployed' 'entrepreneur' 'housemaid' 'unknown' 'self-employed' 'student']) 
